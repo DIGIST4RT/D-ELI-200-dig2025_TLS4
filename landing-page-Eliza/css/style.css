@@ -9587,9 +9587,9 @@ body.sidebar-open::before {
 }
 
 .features-overview .readmore-link:hover {
-  color: #ff0000;
+  color: #2A314C;
 }
-
+  
 .features-overview .features-width {
   flex-basis: 61%;
 }
@@ -9803,7 +9803,7 @@ footer a:hover {
 }
 
 .owl-item:nth-child(even) .content-divider {
-  background-color: red;
+  background-color: blue;
 }
 
 @media (max-width: 575px) {
